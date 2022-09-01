@@ -1,0 +1,44 @@
+ HTML 
+<html> 
+<head> 
+<title> 
+News 
+</title> 
+<link rel="stylesheet" href="newscss.css"> 
+</head> 
+<body 
+<fieldset background="C:\Users\DELL\Desktop\mari\89.jpg"> 
+<h1 >New Miraculous Ladybug : Tales Of Ladybug & Cat Noir  Season 4-KURO NEKO</h1> 
+<hr> 
+<p> 
+<div ><b> 
+The French animated series "Miraculous: Tales of Ladybug & Cat Noir" has  charmed international audiences with its inventive superhero story about two  teenagers in Paris trying to juggle their regular lives, their superhero duties,  and their (complicated) love for each other. It's made for kids, but plenty of  adults have found it lovable as well. 
+<br><br> 
+In the starring role is Marinette Dupain-Cheng (voiced in English by actress  Cristina Valenzuela), an awkward yet kind student who transforms into the  confident, capable superhero named Ladybug and is aided by a small creature 
+named Tikki. She's got a massive crush on her rich, sheltered classmate Adrien  Agreste (voiced in English by Bryce Papenbrook). Adrien is also secretly her  crime-fighting partner Cat Noir, a jokester that's hopelessly in love with  Ladybug. In each episode, a mysterious villain named Hawk Moth (voiced in  English by Keith Silverstein) takes advantage of one of the innocent civilians of  Paris by turning their negative emotions into fuel for a supervillain  transformation. Ladybug and Cat Noir fight to rid the victim of Hawk Moth's  control and save all of Paris together. 
+<br><br> 
+So far, three full seasons have aired, while Season 4 is in the midst of releasing.  The second half of Season 3 hit Netflix in February 2020, but Netflix hasn't seen  a single new "Miraculous" episode since. So, when can fans expect to see  Season 4 on the streaming giant? 
+<br><br> 
+The "Miraculous: Tales of Ladybug & Cat Noir" distribution is complicated, to  say the least. The French cartoon usually debuts in France and other countries  before it's dubbed into English and makes its way to the United States. It first  came to the U.S. via Nickelodeon but gained popularity when the first season  was put on Netflix in 2016. Per Business Wire, beginning in 2019, Disney  Channel has the distribution rights to the series in the U.S., so Season 4  episodes have actually been airing there in 2021, though sometimes out of  order. 
+<br><br> 
+Seasons 1 through 3 are on Netflix, and some of Season 4 is available on  Disney+ and the Disney-owned streamer Hulu. The last English-dubbed episode  of Season 4 on the schedule, "Ephemeral," will come out on November 27 and  quickly make its way to Disney+ and Hulu (via Miraculous Ladybug News).  However, the 26-episode season still has six episodes left to air with no  confirmed release date. 
+<br><br> 
+The initial deal with Netflix only covered the first three seasons, according to a  ZAG Entertainment press release (via PR Newswire), so it's entirely possible  that Season 4 will never land on Netflix. Or, at least not unless the distribution  rights change again, which could happen at any point in the future. Fans will  have to watch Season 4 on one of the Disney-owned channels, where the  confirmed Seasons 5 through 7 (via Twitter) will likely land as well.
+<br><br> 
+When it comes to selecting a movie the whole family will enjoy, the choices  can feel simultaneously overwhelming and frustrating. Parents don't want to  suffer through overly predictable and saccharine films aimed at 6-year-olds any  more than kids want to sit through slow-burn dramas. So while there are an  abundance of "kids and family" films available on every major streaming  service, it can be difficult to find one that offers something for everyone in  your family, especially if you have a wide range of ages to appease. 
+<br><br> 
+Still, there are plenty of films out there that are appropriate and entertaining  for both children and parents alike. Below, we've gathered 98 of our favorites,  spanning over 80 years of cinema and every genre, from fantasies and  comedies to animated classics, live-action adventures, and heart-tugging  dramas. Some will appeal to families with kids of any ages, while others will  skew a bit older, for the families whose kids may have aged out of elementary  school but are still game for the occasional family movie night. But regardless  of age, there's something here for everyone. 
+<br><br> 
+Updated on December 13, 2021: We've compiled the best family flicks ever  made, but filmmakers are still creating quality movies all the time. We'll keep  our eye on what the wide world of cinema has to offer, and we'll update this  list from time to time when worthy family gems make their way to theaters  and streaming services. 
+</b></div> 
+</fieldset> 
+</body> 
+</html>
+ CSS 
+div{column-count:3; 
+column-gap:10px;text-align-last:left; 
+column-rule:2px solid blue;text-indent:80px;line-height:1.2; font-size:20px;background-color:rgba(0,0,0,0.6);color:white} 
+h1{text-align:center;font-size:50px;background color:rgba(0,0,0,0.5);color:white} 
+fieldset{background-size:100% 100%; 
+background-repeat:no-repeat; 
+}
